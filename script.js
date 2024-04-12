@@ -21,6 +21,7 @@ if (space1 >= 80) {
 } else if (space1 <= 50) {
   console.log("Room to plant more plants!")
 }
+//--------> Room to plant more plants!
 
 console.log("_____________")
 
@@ -34,6 +35,7 @@ if (space2 >= 80) {
 } else if (space2 <= 50) {
   console.log("Room to plant more plants!")
 }
+//--------> Room to plant more plants!
 
 console.log("_____________")
 
@@ -49,5 +51,6 @@ if (space3 >= 80) {
 } else {
   console.log("Do not plant anymore plants!")
 }
+//-------> Do not plant anymore plants!
 
 
