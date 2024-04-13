@@ -54,3 +54,15 @@ if (space3 >= 80) {
 //-------> Do not plant anymore plants!
 
 
+console.log("_____________")
+
+// Part 2 Thinking Bigger
+
+  let numPlants = 100;
+  let weeks = 10;
+  const radius2 = 5;
+  const spaceReq2 = 0.8;
+
+
+  
+
